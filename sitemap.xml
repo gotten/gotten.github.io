@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/public/privacy/</loc>
+      <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+02:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/public/publication/hirise-concept/</loc>
+      <loc>/publication/hirise-concept/</loc>
       <lastmod>2018-06-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>/public/project/hirise/</loc>
+      <loc>/project/hirise/</loc>
       <lastmod>2018-02-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>/public/project/mascara/</loc>
+      <loc>/project/mascara/</loc>
       <lastmod>2017-07-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
     
-      <loc>/public/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>/public/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
     
-      <loc>/public/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>/public/project/vectorapp/</loc>
+      <loc>/project/vectorapp/</loc>
       <lastmod>2015-11-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>/public/project/genetics/</loc>
+      <loc>/project/genetics/</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -76,7 +76,7 @@
     
     <url>
     
-      <loc>/public/project/genealogy/</loc>
+      <loc>/project/genealogy/</loc>
       <lastmod>2000-08-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -84,7 +84,7 @@
     
     <url>
     
-      <loc>/public/publication_types/1/</loc>
+      <loc>/publication_types/1/</loc>
       <lastmod>2018-06-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -93,7 +93,7 @@
     
     <url>
     
-      <loc>/public/tags/astronomy/</loc>
+      <loc>/tags/astronomy/</loc>
       <lastmod>2018-06-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -102,7 +102,7 @@
     
     <url>
     
-      <loc>/public/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -110,7 +110,7 @@
     
     <url>
     
-      <loc>/public/tags/genealogy/</loc>
+      <loc>/tags/genealogy/</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -119,7 +119,7 @@
     
     <url>
     
-      <loc>/public/tags/genetics/</loc>
+      <loc>/tags/genetics/</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -128,7 +128,7 @@
     
     <url>
     
-      <loc>/public/</loc>
+      <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -137,7 +137,7 @@
     
     <url>
     
-      <loc>/public/tags/hirise/</loc>
+      <loc>/tags/hirise/</loc>
       <lastmod>2018-06-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -146,7 +146,7 @@
     
     <url>
     
-      <loc>/public/tags/mascara/</loc>
+      <loc>/tags/mascara/</loc>
       <lastmod>2017-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -155,7 +155,7 @@
     
     <url>
     
-      <loc>/public/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2018-02-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -164,7 +164,7 @@
     
     <url>
     
-      <loc>/public/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <lastmod>2018-06-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -173,7 +173,7 @@
     
     <url>
     
-      <loc>/public/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2018-06-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -182,7 +182,7 @@
     
     <url>
     
-      <loc>/public/tags/vapp/</loc>
+      <loc>/tags/vapp/</loc>
       <lastmod>2015-11-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>

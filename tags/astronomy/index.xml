@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astronomy on Gilles Otten&#39;s webpage</title>
-    <link>/public/tags/astronomy/</link>
+    <link>/tags/astronomy/</link>
     <description>Recent content in Astronomy on Gilles Otten&#39;s webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/public/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bringing high-spectral resolution to VLT/SPHERE with a fibre coupling to VLT/CRIRES&#43;</title>
-      <link>/public/publication/hirise-concept/</link>
+      <link>/publication/hirise-concept/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/public/publication/hirise-concept/</guid>
+      <guid>/publication/hirise-concept/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HiRISE</title>
-      <link>/public/project/hirise/</link>
+      <link>/project/hirise/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
-      <guid>/public/project/hirise/</guid>
+      <guid>/project/hirise/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>MASCARA</title>
-      <link>/public/project/mascara/</link>
+      <link>/project/mascara/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
-      <guid>/public/project/mascara/</guid>
+      <guid>/project/mascara/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>vAPP coronagraph</title>
-      <link>/public/project/vectorapp/</link>
+      <link>/project/vectorapp/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
       
-      <guid>/public/project/vectorapp/</guid>
+      <guid>/project/vectorapp/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
