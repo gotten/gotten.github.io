@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Gilles Otten&#39;s webpage</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Gilles Otten&#39;s webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Astronomy</title>
+      <link>/tags/astronomy/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/astronomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genealogy</title>
+      <link>/tags/genealogy/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/genealogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics</title>
+      <link>/tags/genetics/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiRISE</title>
+      <link>/tags/hirise/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/hirise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MASCARA</title>
+      <link>/tags/mascara/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/mascara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAPP</title>
+      <link>/tags/vapp/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/vapp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
