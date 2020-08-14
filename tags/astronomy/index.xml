@@ -6,7 +6,7 @@
     <description>Recent content in Astronomy on Gilles Otten&#39;s webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018-2020</copyright>
     <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
@@ -46,6 +46,15 @@
       
       <guid>/project/vectorapp/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+    <item>
+      <title>The vector-APP: a broadband apodizing phase plate that yields complementary PSFs</title>
+      <link>/publication/vapp-concept/</link>
+      <pubDate>Thu, 13 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/vapp-concept/</guid>
+      <description></description>
     </item>
     
   </channel>
