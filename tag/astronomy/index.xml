@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astronomy | Gilles Otten&#39;s webpage</title>
+    <link>https://gotten.github.io/tag/astronomy/</link>
+      <atom:link href="https://gotten.github.io/tag/astronomy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Astronomy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Astronomy</title>
+      <link>https://gotten.github.io/tag/astronomy/</link>
+    </image>
+    
+    <item>
+      <title>Bringing high-spectral resolution to VLT/SPHERE with a fibre coupling to VLT/CRIRES&#43;</title>
+      <link>https://gotten.github.io/publication/hirise-concept/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/hirise-concept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiRISE</title>
+      <link>https://gotten.github.io/project/hirise/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/hirise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MASCARA</title>
+      <link>https://gotten.github.io/project/mascara/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/mascara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Multi-site All-Sky CAmeRA (MASCARA)-Finding transiting exoplanets around bright (mV &lt; 8) stars</title>
+      <link>https://gotten.github.io/publication/mascara/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/mascara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-sky performance analysis of the vector apodizing phase plate coronagraph on MagAO/Clio2</title>
+      <link>https://gotten.github.io/publication/magao/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://gotten.github.io/publication/magao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector APP</title>
+      <link>https://gotten.github.io/project/vectorapp/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/vectorapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The vector-APP: a broadband apodizing phase plate that yields complementary PSFs</title>
+      <link>https://gotten.github.io/publication/vapp-concept/</link>
+      <pubDate>Thu, 13 Sep 2012 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/vapp-concept/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

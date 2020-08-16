@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MASCARA | Gilles Otten&#39;s webpage</title>
+    <link>https://gotten.github.io/tag/mascara/</link>
+      <atom:link href="https://gotten.github.io/tag/mascara/index.xml" rel="self" type="application/rss+xml" />
+    <description>MASCARA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>MASCARA</title>
+      <link>https://gotten.github.io/tag/mascara/</link>
+    </image>
+    
+    <item>
+      <title>MASCARA</title>
+      <link>https://gotten.github.io/project/mascara/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/mascara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Multi-site All-Sky CAmeRA (MASCARA)-Finding transiting exoplanets around bright (mV &lt; 8) stars</title>
+      <link>https://gotten.github.io/publication/mascara/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/mascara/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

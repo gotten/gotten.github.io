@@ -1,59 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Gilles Otten&#39;s webpage</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Gilles Otten&#39;s webpage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018-2020</copyright>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Projects | Gilles Otten&#39;s webpage</title>
+    <link>https://gotten.github.io/project/</link>
+      <atom:link href="https://gotten.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://gotten.github.io/project/</link>
+    </image>
     
     <item>
       <title>HiRISE</title>
-      <link>/project/hirise/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/project/hirise/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <link>https://gotten.github.io/project/hirise/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/hirise/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>MASCARA</title>
-      <link>/project/mascara/</link>
+      <link>https://gotten.github.io/project/mascara/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/project/mascara/</guid>
+      <guid>https://gotten.github.io/project/mascara/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>vAPP coronagraph</title>
-      <link>/project/vectorapp/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/project/vectorapp/</guid>
+      <title>Vector APP</title>
+      <link>https://gotten.github.io/project/vectorapp/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/vectorapp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Genetic genealogy</title>
-      <link>/project/genetics/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/project/genetics/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <title>Genetical genealogy</title>
+      <link>https://gotten.github.io/project/genetics/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/genetics/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Genealogy</title>
-      <link>/project/genealogy/</link>
+      <link>https://gotten.github.io/project/genealogy/</link>
       <pubDate>Tue, 01 Aug 2000 00:00:00 +0200</pubDate>
-      
-      <guid>/project/genealogy/</guid>
+      <guid>https://gotten.github.io/project/genealogy/</guid>
       <description></description>
     </item>
     
