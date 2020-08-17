@@ -5,12 +5,20 @@
     <link>https://gotten.github.io/author/m.n.-miskiewicz/</link>
       <atom:link href="https://gotten.github.io/author/m.n.-miskiewicz/index.xml" rel="self" type="application/rss+xml" />
     <description>M.N. Miskiewicz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Thu, 13 Sep 2012 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Thu, 12 Jan 2017 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>M.N. Miskiewicz</title>
       <link>https://gotten.github.io/author/m.n.-miskiewicz/</link>
     </image>
+    
+    <item>
+      <title>Performance characterization of a broadband vector Apodizing Phase Plate coronagraph </title>
+      <link>https://gotten.github.io/publication/performance-vapp/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://gotten.github.io/publication/performance-vapp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The vector-APP: a broadband apodizing phase plate that yields complementary PSFs</title>

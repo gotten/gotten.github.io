@@ -1,0 +1,1326 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Gilles P.P.L. Otten">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="*Context*. Clouds are ubiquitous in exoplanet atmospheres and they represent a challenge for the model interpretation of their spectra. When generating a large number of model spectra, complex cloud models often prove too costly numerically, whereas more efficient models may beoverly simplified. *Aims*. We aim to constrain the atmospheric properties of the directly imaged planet HR 8799e with a free retrieval approach. *Methods*. We used our radiative transfer code petitRADTRANS for generating the spectra, which we coupled to the PyMultiNest tool. We added the effect of multiple scattering which is important for treating clouds. Two cloud model parameterizations are tested: the first incorporates the mixing and settling of condensates, the second simply parameterizes the functional form of the opacity. *Results*. In mock retrievals, using an inadequate cloud model may result in atmospheres that are more isothermal and less cloudy than the input. Applying our framework on observations of HR 8799e made with the GPI, SPHERE, and GRAVITY, we find a cloudy atmosphere governed bydisequilibrium chemistry, confirming previous analyses. We retrieve that C/O=$0.60^{&#43;0.07}_{−0.08}$. Other models have not yet produced a well constrained C/O value for this planet. The retrieved C/O values of both cloud models are consistent, while leading to different atmospheric structures: either cloudy or more isothermal and less cloudy. Fitting the observations with the self-consistent Exo-REM model leads to comparable results, without constraining C/O. *Conclusions*. With data from the most sensitive instruments, retrieval analyses of directly imaged planets are possible. The inferred C/O ratio of HR 8799e is independent of the cloud model and thus appears to be a robust. This C/O is consistent with stellar, which could indicate that the HR8799e formed outside the CO$_2$ or CO iceline. As it is the innermost planet of the system, this constraint could apply to all HR 8799 planets.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://gotten.github.io/publication/exogravity/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#4caf50">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://gotten.github.io/publication/exogravity/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Gilles Otten&#39;s webpage">
+  <meta property="og:url" content="https://gotten.github.io/publication/exogravity/">
+  <meta property="og:title" content="Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e | Gilles Otten&#39;s webpage">
+  <meta property="og:description" content="*Context*. Clouds are ubiquitous in exoplanet atmospheres and they represent a challenge for the model interpretation of their spectra. When generating a large number of model spectra, complex cloud models often prove too costly numerically, whereas more efficient models may beoverly simplified. *Aims*. We aim to constrain the atmospheric properties of the directly imaged planet HR 8799e with a free retrieval approach. *Methods*. We used our radiative transfer code petitRADTRANS for generating the spectra, which we coupled to the PyMultiNest tool. We added the effect of multiple scattering which is important for treating clouds. Two cloud model parameterizations are tested: the first incorporates the mixing and settling of condensates, the second simply parameterizes the functional form of the opacity. *Results*. In mock retrievals, using an inadequate cloud model may result in atmospheres that are more isothermal and less cloudy than the input. Applying our framework on observations of HR 8799e made with the GPI, SPHERE, and GRAVITY, we find a cloudy atmosphere governed bydisequilibrium chemistry, confirming previous analyses. We retrieve that C/O=$0.60^{&#43;0.07}_{−0.08}$. Other models have not yet produced a well constrained C/O value for this planet. The retrieved C/O values of both cloud models are consistent, while leading to different atmospheric structures: either cloudy or more isothermal and less cloudy. Fitting the observations with the self-consistent Exo-REM model leads to comparable results, without constraining C/O. *Conclusions*. With data from the most sensitive instruments, retrieval analyses of directly imaged planets are possible. The inferred C/O ratio of HR 8799e is independent of the cloud model and thus appears to be a robust. This C/O is consistent with stellar, which could indicate that the HR8799e formed outside the CO$_2$ or CO iceline. As it is the innermost planet of the system, this constraint could apply to all HR 8799 planets."><meta property="og:image" content="https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-01-12T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2020-01-12T00:00:00&#43;01:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://gotten.github.io/publication/exogravity/"
+  },
+  "headline": "Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e",
+  
+  "datePublished": "2020-01-12T00:00:00+01:00",
+  "dateModified": "2020-01-12T00:00:00+01:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "P. Mollière"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Gilles Otten's webpage",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "*Context*. Clouds are ubiquitous in exoplanet atmospheres and they represent a challenge for the model interpretation of their spectra. When generating a large number of model spectra, complex cloud models often prove too costly numerically, whereas more efficient models may beoverly simplified. *Aims*. We aim to constrain the atmospheric properties of the directly imaged planet HR 8799e with a free retrieval approach. *Methods*. We used our radiative transfer code petitRADTRANS for generating the spectra, which we coupled to the PyMultiNest tool. We added the effect of multiple scattering which is important for treating clouds. Two cloud model parameterizations are tested: the first incorporates the mixing and settling of condensates, the second simply parameterizes the functional form of the opacity. *Results*. In mock retrievals, using an inadequate cloud model may result in atmospheres that are more isothermal and less cloudy than the input. Applying our framework on observations of HR 8799e made with the GPI, SPHERE, and GRAVITY, we find a cloudy atmosphere governed bydisequilibrium chemistry, confirming previous analyses. We retrieve that C/O=$0.60^{+0.07}_{−0.08}$. Other models have not yet produced a well constrained C/O value for this planet. The retrieved C/O values of both cloud models are consistent, while leading to different atmospheric structures: either cloudy or more isothermal and less cloudy. Fitting the observations with the self-consistent Exo-REM model leads to comparable results, without constraining C/O. *Conclusions*. With data from the most sensitive instruments, retrieval analyses of directly imaged planets are possible. The inferred C/O ratio of HR 8799e is independent of the cloud model and thus appears to be a robust. This C/O is consistent with stellar, which could indicate that the HR8799e formed outside the CO$_2$ or CO iceline. As it is the innermost planet of the system, this constraint could apply to all HR 8799 planets."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e | Gilles Otten&#39;s webpage</title>
+
+</head>
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Gilles Otten&#39;s webpage</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Gilles Otten&#39;s webpage</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#home"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span >P. Mollière</span>, <span >T. Stolker</span>, <span >S. Lacour</span>, <span class="font-weight-bold"><a href="/author/gilles-p.p.l.-otten/">Gilles P.P.L. Otten</a></span>, <span >J. Shangguan</span>, <span >B. Charnay</span>, <span >T. Molyarova</span>, <span >M. Nowak</span>, <span >Th. Henning</span>, <span >G.D. Marleau</span>, <span >D.A. Semenov</span>, <span >E. van Dishock</span>, <span >F. Eisenhauer</span>, <span >P. Garcia</span>, <span >R. Garcia Lopez</span>, <span >A.Z. Greenbaum</span>, <span >S. Hinkley</span>, <span >P. Kervella</span>, <span >L. Kreidberg</span>, <span >A.L. Maire</span>, <span >E. Nasedkin</span>, <span >L. Pueyo</span>, <span >I.A.G. Snellen</span>, <span >A. Vigan</span>, <span >J. Wang</span>, <span >P.T. de Zeeuw</span>, <span >A. Zurlo</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.aanda.org/articles/aa/pdf/forth/aa38325-20.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/exogravity/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract"><em>Context</em>. Clouds are ubiquitous in exoplanet atmospheres and they represent a challenge for the model interpretation of their spectra. When generating a large number of model spectra, complex cloud models often prove too costly numerically, whereas more efficient models may beoverly simplified. <em>Aims</em>. We aim to constrain the atmospheric properties of the directly imaged planet HR 8799e with a free retrieval approach. <em>Methods</em>. We used our radiative transfer code petitRADTRANS for generating the spectra, which we coupled to the PyMultiNest tool. We added the effect of multiple scattering which is important for treating clouds. Two cloud model parameterizations are tested: the first incorporates the mixing and settling of condensates, the second simply parameterizes the functional form of the opacity. <em>Results</em>. In mock retrievals, using an inadequate cloud model may result in atmospheres that are more isothermal and less cloudy than the input. Applying our framework on observations of HR 8799e made with the GPI, SPHERE, and GRAVITY, we find a cloudy atmosphere governed bydisequilibrium chemistry, confirming previous analyses. We retrieve that C/O=$0.60^{+0.07}_{−0.08}$. Other models have not yet produced a well constrained C/O value for this planet. The retrieved C/O values of both cloud models are consistent, while leading to different atmospheric structures: either cloudy or more isothermal and less cloudy. Fitting the observations with the self-consistent Exo-REM model leads to comparable results, without constraining C/O. <em>Conclusions</em>. With data from the most sensitive instruments, retrieval analyses of directly imaged planets are possible. The inferred C/O ratio of HR 8799e is independent of the cloud model and thus appears to be a robust. This C/O is consistent with stellar, which could indicate that the HR8799e formed outside the CO$_2$ or CO iceline. As it is the innermost planet of the system, this constraint could apply to all HR 8799 planets.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>Astronomy &amp; Astrophysics</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/gravity/">GRAVITY</a>
+  
+  <a class="badge badge-light" href="/tag/astronomy/">Astronomy</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/gilles-p.p.l.-otten/avatar_hua8c3be91288f8f01c2d75ae16e4e55df_657104_270x270_fill_lanczos_center_2.png" alt="Gilles P.P.L. Otten">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://gotten.github.io/">Gilles P.P.L. Otten</a></h5>
+        <h6 class="card-subtitle">Postdoctoral Researcher</h6>
+        <p class="card-text">My research interests include high contrast imaging, high resolution spectroscopy and interferometry.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:gilles.otten@lam.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-6717-1977" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=C1TE22wAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/gilles-otten-a68b8b93/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/project/exogravity/">exoGravity</a></li>
+      
+      <li><a href="/publication/hirise-concept/">Bringing high-spectral resolution to VLT/SPHERE with a fibre coupling to VLT/CRIRES&#43;</a></li>
+      
+      <li><a href="/publication/mascara/">The Multi-site All-Sky CAmeRA (MASCARA)-Finding transiting exoplanets around bright (mV &lt; 8) stars</a></li>
+      
+      <li><a href="/project/papyrus/">PAPYRUS</a></li>
+      
+      <li><a href="/project/hirise/">HiRISE</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academic.min.cbb55fd8eafa574bce72dcb94f65cd2c.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © 2018 - 2020
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    Published with
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic Website Builder</a>
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

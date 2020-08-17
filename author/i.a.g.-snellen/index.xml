@@ -5,12 +5,20 @@
     <link>https://gotten.github.io/author/i.a.g.-snellen/</link>
       <atom:link href="https://gotten.github.io/author/i.a.g.-snellen/index.xml" rel="self" type="application/rss+xml" />
     <description>I.A.G. Snellen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>I.A.G. Snellen</title>
       <link>https://gotten.github.io/author/i.a.g.-snellen/</link>
     </image>
+    
+    <item>
+      <title>Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e</title>
+      <link>https://gotten.github.io/publication/exogravity/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://gotten.github.io/publication/exogravity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Multi-site All-Sky CAmeRA (MASCARA)-Finding transiting exoplanets around bright (mV &lt; 8) stars</title>
