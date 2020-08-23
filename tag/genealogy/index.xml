@@ -29,19 +29,30 @@
     </item>
     
     <item>
-      <title>Genetical genealogy</title>
+      <title>Genetic genealogy</title>
       <link>https://gotten.github.io/project/genetics/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
       <guid>https://gotten.github.io/project/genetics/</guid>
-      <description></description>
+      <description>&lt;p&gt;I have used genetic research to study several branches of my ancestors and break down some brick walls. The most important results have been anonimized for privacy reasons and published in a Book Section in the &lt;em&gt;&amp;ldquo;Drents Genealogisch Jaarboek 2017&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Genealogy</title>
       <link>https://gotten.github.io/project/genealogy/</link>
-      <pubDate>Tue, 01 Aug 2000 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0200</pubDate>
       <guid>https://gotten.github.io/project/genealogy/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;genealogy&#34;&gt;Genealogy&lt;/h1&gt;
+&lt;p&gt;In late 2000 in my second year of high school I was introduced during lessons in History to genealogical research.
+Almost continuously since that moment I have worked on gathering information on my ancestors as a hobby.&lt;/p&gt;
+&lt;p&gt;After 20 years I want to release some of the information to the wider public. For family members a database can be found with the link at the top of the page.&lt;/p&gt;
+&lt;h1 id=&#34;automatic-transcription-of-hand-written-text&#34;&gt;Automatic transcription of hand-written text&lt;/h1&gt;
+&lt;p&gt;Since several years the 
+&lt;a href=&#34;https://transkribus.eu/Transkribus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transkribus&lt;/a&gt; software is available that uses various trained neural networks to read hand-written text. It has a steep learning curve but once you are accustomed to it it can accelerate transcriptions.
+As an experiment I applied it to the indices of the death records of Bardenberg from the year 1876 up to 1888 and corrected the 95% accurate transcription.&lt;/p&gt;
+&lt;p&gt;The file located 
+&lt;a href=&#34;https://drive.google.com/file/d/1AVM5ORyToBKdbxIjPrZWmUJOivdWS1kO/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; has the first ten years as an example.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
