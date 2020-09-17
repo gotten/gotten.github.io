@@ -5,12 +5,20 @@
     <link>https://gotten.github.io/</link>
       <atom:link href="https://gotten.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Gilles Otten&#39;s webpage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Gilles Otten&#39;s webpage</title>
       <link>https://gotten.github.io/</link>
     </image>
+    
+    <item>
+      <title>Direct characterization of young giant exoplanets at high spectral resolution by coupling SPHERE and CRIRES&#43; </title>
+      <link>https://gotten.github.io/publication/hirise-sim/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/hirise-sim/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e</title>
@@ -117,7 +125,7 @@
       <link>https://gotten.github.io/project/genetics/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
       <guid>https://gotten.github.io/project/genetics/</guid>
-      <description>&lt;p&gt;I have used genetic research to study several branches of my ancestors and break down some brick walls. The most important results have been anonimized for privacy reasons and published in a Book Section in the &lt;em&gt;&amp;ldquo;Drents Genealogisch Jaarboek 2017&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I have used genetic research to study several branches of my ancestors and break down some brick walls. The most striking results have been anonymized for privacy reasons and published in a Book Section in the &lt;em&gt;&amp;ldquo;Drents Genealogisch Jaarboek 2017&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
