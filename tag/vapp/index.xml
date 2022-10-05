@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vAPP | Gilles Otten&#39;s webpage</title>
+    <link>https://gotten.github.io/tag/vapp/</link>
+      <atom:link href="https://gotten.github.io/tag/vapp/index.xml" rel="self" type="application/rss+xml" />
+    <description>vAPP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Thu, 12 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>vAPP</title>
+      <link>https://gotten.github.io/tag/vapp/</link>
+    </image>
+    
+    <item>
+      <title>On-sky performance analysis of the vector apodizing phase plate coronagraph on MagAO/Clio2</title>
+      <link>https://gotten.github.io/publication/magao/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://gotten.github.io/publication/magao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance characterization of a broadband vector Apodizing Phase Plate coronagraph </title>
+      <link>https://gotten.github.io/publication/performance-vapp/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://gotten.github.io/publication/performance-vapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector APP</title>
+      <link>https://gotten.github.io/project/vectorapp/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/vectorapp/</guid>
+      <description>&lt;p&gt;The vector Apodizing Phase Plate is a coronagraph that uses a multi-layered patterned liquid crystal device to produce an achromatic phase response that spans up to one order of magnitude. The picture above shows a prototype that was specced to operate from 500-900 nm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The vector-APP: a broadband apodizing phase plate that yields complementary PSFs</title>
+      <link>https://gotten.github.io/publication/vapp-concept/</link>
+      <pubDate>Thu, 13 Sep 2012 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/vapp-concept/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

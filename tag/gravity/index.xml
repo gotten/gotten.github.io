@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GRAVITY | Gilles Otten&#39;s webpage</title>
+    <link>https://gotten.github.io/tag/gravity/</link>
+      <atom:link href="https://gotten.github.io/tag/gravity/index.xml" rel="self" type="application/rss+xml" />
+    <description>GRAVITY</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>GRAVITY</title>
+      <link>https://gotten.github.io/tag/gravity/</link>
+    </image>
+    
+    <item>
+      <title>Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e</title>
+      <link>https://gotten.github.io/publication/exogravity/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://gotten.github.io/publication/exogravity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exoGravity</title>
+      <link>https://gotten.github.io/project/exogravity/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/exogravity/</guid>
+      <description>&lt;p&gt;The exoGravity project is based around a 14 night long large program to cover multiple known directly imaged exoplanets in multiple epochs using the VLTI/GRAVITY instrument (K-band spectrograph). This allows the team to study the astrometry and spectroscopy (at up to $R=4000$) of these planets and their atmospheres.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

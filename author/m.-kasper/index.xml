@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Kasper | Gilles Otten&#39;s webpage</title>
+    <link>https://gotten.github.io/author/m.-kasper/</link>
+      <atom:link href="https://gotten.github.io/author/m.-kasper/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Kasper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Kasper</title>
+      <link>https://gotten.github.io/author/m.-kasper/</link>
+    </image>
+    
+    <item>
+      <title>Direct characterization of young giant exoplanets at high spectral resolution by coupling SPHERE and CRIRES&#43; </title>
+      <link>https://gotten.github.io/publication/hirise-sim/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/hirise-sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing high-spectral resolution to VLT/SPHERE with a fibre coupling to VLT/CRIRES&#43;</title>
+      <link>https://gotten.github.io/publication/hirise-concept/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/hirise-concept/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.T. de Zeeuw | Gilles Otten&#39;s webpage</title>
+    <link>https://gotten.github.io/author/p.t.-de-zeeuw/</link>
+      <atom:link href="https://gotten.github.io/author/p.t.-de-zeeuw/index.xml" rel="self" type="application/rss+xml" />
+    <description>P.T. de Zeeuw</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>P.T. de Zeeuw</title>
+      <link>https://gotten.github.io/author/p.t.-de-zeeuw/</link>
+    </image>
+    
+    <item>
+      <title>Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e</title>
+      <link>https://gotten.github.io/publication/exogravity/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://gotten.github.io/publication/exogravity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

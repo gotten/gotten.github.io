@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astronomy | Gilles Otten&#39;s webpage</title>
+    <link>https://gotten.github.io/tag/astronomy/</link>
+      <atom:link href="https://gotten.github.io/tag/astronomy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Astronomy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Astronomy</title>
+      <link>https://gotten.github.io/tag/astronomy/</link>
+    </image>
+    
+    <item>
+      <title>Direct characterization of young giant exoplanets at high spectral resolution by coupling SPHERE and CRIRES&#43; </title>
+      <link>https://gotten.github.io/publication/hirise-sim/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/hirise-sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e</title>
+      <link>https://gotten.github.io/publication/exogravity/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://gotten.github.io/publication/exogravity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exoGravity</title>
+      <link>https://gotten.github.io/project/exogravity/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/exogravity/</guid>
+      <description>&lt;p&gt;The exoGravity project is based around a 14 night long large program to cover multiple known directly imaged exoplanets in multiple epochs using the VLTI/GRAVITY instrument (K-band spectrograph). This allows the team to study the astrometry and spectroscopy (at up to $R=4000$) of these planets and their atmospheres.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PAPYRUS</title>
+      <link>https://gotten.github.io/project/papyrus/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/papyrus/</guid>
+      <description>&lt;p&gt;The PAPYRUS project was brought to life by the PhD students supported by Postdocs and staffmembers at LAM in Marseille. It gathers the expertise and equipment that has been built up over the years to design and construct a state-of-art Pyramid Wavefront Sensor, to be installed at the 1.52 meter telescope at OHP.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bringing high-spectral resolution to VLT/SPHERE with a fibre coupling to VLT/CRIRES&#43;</title>
+      <link>https://gotten.github.io/publication/hirise-concept/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/hirise-concept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiRISE</title>
+      <link>https://gotten.github.io/project/hirise/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/hirise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MASCARA</title>
+      <link>https://gotten.github.io/project/mascara/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/mascara/</guid>
+      <description>&lt;p&gt;The MASCARA project was designed and constructed to discover transiting exoplanets around the brightest stars in the sky. All stars brighter than magnitude 8.4 above Airmass 2 are imaged every 6.4 seconds with 6.4 second integration time, creating continuous exposures. Two stations have been constructed, one in La Palma, Spain and the other in La Silla, Chile. Two smaller sister station with only two cameras called bRing reside in Sutherland South Africa and Siding Springs, Australia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Multi-site All-Sky CAmeRA (MASCARA)-Finding transiting exoplanets around bright (mV &lt; 8) stars</title>
+      <link>https://gotten.github.io/publication/mascara/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/mascara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-sky performance analysis of the vector apodizing phase plate coronagraph on MagAO/Clio2</title>
+      <link>https://gotten.github.io/publication/magao/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://gotten.github.io/publication/magao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance characterization of a broadband vector Apodizing Phase Plate coronagraph </title>
+      <link>https://gotten.github.io/publication/performance-vapp/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://gotten.github.io/publication/performance-vapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector APP</title>
+      <link>https://gotten.github.io/project/vectorapp/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/vectorapp/</guid>
+      <description>&lt;p&gt;The vector Apodizing Phase Plate is a coronagraph that uses a multi-layered patterned liquid crystal device to produce an achromatic phase response that spans up to one order of magnitude. The picture above shows a prototype that was specced to operate from 500-900 nm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The vector-APP: a broadband apodizing phase plate that yields complementary PSFs</title>
+      <link>https://gotten.github.io/publication/vapp-concept/</link>
+      <pubDate>Thu, 13 Sep 2012 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/publication/vapp-concept/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
