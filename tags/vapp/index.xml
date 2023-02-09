@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VAPP on Gilles Otten&#39;s webpage</title>
+    <title>vAPP on Gilles Otten&#39;s webpage</title>
     <link>/tags/vapp/</link>
-    <description>Recent content in VAPP on Gilles Otten&#39;s webpage</description>
+    <description>Recent content in vAPP on Gilles Otten&#39;s webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018-2022</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>/project/vectorapp/</guid>
-      <description></description>
+      <description>The vector Apodizing Phase Plate coronagraph (vAPP) surpressed starlight on both sides of a star using an achromatic pupil-plane coronagraph based on liquid-crystal technology. This enables an improved detection and characterization of exoplanets and their atmospheres.</description>
     </item>
     
     <item>

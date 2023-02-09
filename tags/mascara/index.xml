@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MASCARA on Gilles Otten&#39;s webpage</title>
@@ -18,7 +18,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>/project/mascara/</guid>
-      <description></description>
+      <description>The Multi-Site All-Sky CAmeRA searches for transiting exoplanets around the brightest stars in the sky.</description>
     </item>
     
   </channel>

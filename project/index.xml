@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Gilles Otten&#39;s webpage</title>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
       <guid>/project/hirise/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <description>Combining high contrast imaging with high dispersion spectroscopy.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>/project/mascara/</guid>
-      <description></description>
+      <description>The Multi-Site All-Sky CAmeRA searches for transiting exoplanets around the brightest stars in the sky.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>/project/vectorapp/</guid>
-      <description></description>
+      <description>The vector Apodizing Phase Plate coronagraph (vAPP) surpressed starlight on both sides of a star using an achromatic pupil-plane coronagraph based on liquid-crystal technology. This enables an improved detection and characterization of exoplanets and their atmospheres.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>/project/genetics/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <description>DNA is a powerful tool in family research and has provided valuable clues in my family&amp;rsquo;s origins.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Tue, 01 Aug 2000 00:00:00 +0200</pubDate>
       
       <guid>/project/genealogy/</guid>
-      <description></description>
+      <description>Otten family tree with more than 10000 relatives. Updated since the year 2000.</description>
     </item>
     
   </channel>

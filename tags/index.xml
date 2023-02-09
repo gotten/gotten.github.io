@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gilles Otten&#39;s webpage</title>
@@ -22,24 +22,6 @@
     </item>
     
     <item>
-      <title>Genealogy</title>
-      <link>/tags/genealogy/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/genealogy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetics</title>
-      <link>/tags/genetics/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>HiRISE</title>
       <link>/tags/hirise/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0200</pubDate>
@@ -58,11 +40,29 @@
     </item>
     
     <item>
-      <title>VAPP</title>
+      <title>vAPP</title>
       <link>/tags/vapp/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>/tags/vapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genealogy</title>
+      <link>/tags/genealogy/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/genealogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics</title>
+      <link>/tags/genetics/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/genetics/</guid>
       <description></description>
     </item>
     
