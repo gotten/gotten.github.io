@@ -5,7 +5,11 @@
     <link>https://gotten.github.io/tag/genetics/</link>
       <atom:link href="https://gotten.github.io/tag/genetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Genetics</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2023</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2022</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+>>>>>>> e9cb24f4b4a42e0250f2f87e044c9d4b3f683c25
     <image>
       <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Genetics</title>
