@@ -1,60 +1,86 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Gilles Otten&#39;s webpage</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Gilles Otten&#39;s webpage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018-2022</copyright>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0100</lastBuildDate>
+    <title>Projects | Gilles Otten&#39;s webpage</title>
+    <link>https://gotten.github.io/project/</link>
+      <atom:link href="https://gotten.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2023</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://gotten.github.io/project/</link>
+    </image>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>exoGravity</title>
+      <link>https://gotten.github.io/project/exogravity/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/exogravity/</guid>
+      <description>&lt;p&gt;The exoGravity project is based around a 14 night long large program to cover multiple known directly imaged exoplanets in multiple epochs using the VLTI/GRAVITY instrument (K-band spectrograph). This allows the team to study the astrometry and spectroscopy (at up to $R=4000$) of these planets and their atmospheres.&lt;/p&gt;
+</description>
+    </item>
     
+    <item>
+      <title>PAPYRUS</title>
+      <link>https://gotten.github.io/project/papyrus/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/papyrus/</guid>
+      <description>&lt;p&gt;The PAPYRUS project was brought to life by the PhD students supported by Postdocs and staff members at LAM in Marseille. It gathers the expertise and equipment that has been built up over the years to design and construct a state-of-art Pyramid Wavefront Sensor. After installation of the visitor instrument at the 1.52 meter telescope at OHP, first light was obtained in June 2022. During these initial on-sky measurements 15% Strehl was achieved on Vega at a wavelength of 635 nanometer.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HiRISE</title>
-      <link>/project/hirise/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/project/hirise/</guid>
-      <description>Combining high contrast imaging with high dispersion spectroscopy.</description>
+      <link>https://gotten.github.io/project/hirise/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/hirise/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>MASCARA</title>
-      <link>/project/mascara/</link>
+      <link>https://gotten.github.io/project/mascara/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/project/mascara/</guid>
-      <description>The Multi-Site All-Sky CAmeRA searches for transiting exoplanets around the brightest stars in the sky.</description>
+      <guid>https://gotten.github.io/project/mascara/</guid>
+      <description>&lt;p&gt;The MASCARA project was designed and constructed to discover transiting exoplanets around the brightest stars in the sky. All stars brighter than magnitude 8.4 above Airmass 2 are imaged every 6.4 seconds with 6.4 second integration time, creating continuous exposures. Two stations have been constructed, one in La Palma, Spain and the other in La Silla, Chile. Two smaller sister station with only two cameras called bRing reside in Sutherland South Africa and Siding Springs, Australia.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>vAPP coronagraph</title>
-      <link>/project/vectorapp/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/project/vectorapp/</guid>
-      <description>The vector Apodizing Phase Plate coronagraph (vAPP) surpressed starlight on both sides of a star using an achromatic pupil-plane coronagraph based on liquid-crystal technology. This enables an improved detection and characterization of exoplanets and their atmospheres.</description>
+      <title>Vector APP</title>
+      <link>https://gotten.github.io/project/vectorapp/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/vectorapp/</guid>
+      <description>&lt;p&gt;The vector Apodizing Phase Plate is a coronagraph that uses a multi-layered patterned liquid crystal device to produce an achromatic phase response that spans up to one order of magnitude. The picture above shows a prototype that was specced to operate from 500-900 nm.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Genetic genealogy</title>
-      <link>/project/genetics/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/project/genetics/</guid>
-      <description>DNA is a powerful tool in family research and has provided valuable clues in my family&amp;rsquo;s origins.</description>
+      <link>https://gotten.github.io/project/genetics/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/genetics/</guid>
+      <description>&lt;p&gt;I have used genetic research to study several branches of my ancestors and break down some brick walls. The most striking results have been anonymized for privacy reasons and published in a Book Section in the &lt;em&gt;&amp;ldquo;Drents Genealogisch Jaarboek 2017&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Genealogy</title>
-      <link>/project/genealogy/</link>
-      <pubDate>Tue, 01 Aug 2000 00:00:00 +0200</pubDate>
-      
-      <guid>/project/genealogy/</guid>
-      <description>Otten family tree with more than 10000 relatives. Updated since the year 2000.</description>
+      <link>https://gotten.github.io/project/genealogy/</link>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/genealogy/</guid>
+      <description>&lt;h1 id=&#34;genealogy&#34;&gt;Genealogy&lt;/h1&gt;
+&lt;p&gt;In late 2000 in my second year of high school I was introduced during lessons in History to genealogical research.
+Almost continuously since that moment I have worked on gathering information on my ancestors as a hobby.&lt;/p&gt;
+&lt;p&gt;After 20 years I want to release some of the information to the wider public. For family members a database can be found with the link at the top of the page.&lt;/p&gt;
+&lt;h1 id=&#34;automatic-transcription-of-hand-written-text&#34;&gt;Automatic transcription of hand-written text&lt;/h1&gt;
+&lt;p&gt;Since several years the 
+&lt;a href=&#34;https://transkribus.eu/Transkribus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transkribus&lt;/a&gt; software is available that uses various trained neural networks to read hand-written text. It has a steep learning curve but once you are accustomed to it it can accelerate transcriptions.
+As an experiment I applied it to the indices of the death records of Bardenberg from the year 1876 up to 1888 and corrected the 95% accurate transcription.&lt;/p&gt;
+&lt;p&gt;The file located 
+&lt;a href=&#34;https://drive.google.com/file/d/1AVM5ORyToBKdbxIjPrZWmUJOivdWS1kO/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; has the first ten years as an example.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,58 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gilles Otten&#39;s webpage on Gilles Otten&#39;s webpage</title>
-    <link>/</link>
-    <description>Recent content in Gilles Otten&#39;s webpage on Gilles Otten&#39;s webpage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018-2022</copyright>
-    <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <title>Gilles Otten&#39;s webpage</title>
+    <link>https://gotten.github.io/</link>
+      <atom:link href="https://gotten.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gilles Otten&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2023</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://gotten.github.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Gilles Otten&#39;s webpage</title>
+      <link>https://gotten.github.io/</link>
+    </image>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <title>Direct characterization of young giant exoplanets at high spectral resolution by coupling SPHERE and CRIRES&#43; </title>
+      <link>https://gotten.github.io/publication/hirise-sim/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0800</pubDate>
+      <guid>https://gotten.github.io/publication/hirise-sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e</title>
+      <link>https://gotten.github.io/publication/exogravity/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0800</pubDate>
+      <guid>https://gotten.github.io/publication/exogravity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exoGravity</title>
+      <link>https://gotten.github.io/project/exogravity/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/exogravity/</guid>
+      <description>&lt;p&gt;The exoGravity project is based around a 14 night long large program to cover multiple known directly imaged exoplanets in multiple epochs using the VLTI/GRAVITY instrument (K-band spectrograph). This allows the team to study the astrometry and spectroscopy (at up to $R=4000$) of these planets and their atmospheres.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/project/</guid>
+      <title>PAPYRUS</title>
+      <link>https://gotten.github.io/project/papyrus/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/papyrus/</guid>
+      <description>&lt;p&gt;The PAPYRUS project was brought to life by the PhD students supported by Postdocs and staff members at LAM in Marseille. It gathers the expertise and equipment that has been built up over the years to design and construct a state-of-art Pyramid Wavefront Sensor. After installation of the visitor instrument at the 1.52 meter telescope at OHP, first light was obtained in June 2022. During these initial on-sky measurements 15% Strehl was achieved on Vega at a wavelength of 635 nanometer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bringing high-spectral resolution to VLT/SPHERE with a fibre coupling to VLT/CRIRES&#43;</title>
+      <link>https://gotten.github.io/publication/hirise-concept/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0800</pubDate>
+      <guid>https://gotten.github.io/publication/hirise-concept/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/post/</guid>
+      <title>HiRISE</title>
+      <link>https://gotten.github.io/project/hirise/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/hirise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/</guid>
+      <title>Genetical research of our ancestors</title>
+      <link>https://gotten.github.io/publication/genealogie/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <guid>https://gotten.github.io/publication/genealogie/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/</guid>
+      <title>Defining Y-SNP variation among the Flemish population (Western Europe) by full genome sequencing</title>
+      <link>https://gotten.github.io/publication/larmuseau/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0800</pubDate>
+      <guid>https://gotten.github.io/publication/larmuseau/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>MASCARA</title>
+      <link>https://gotten.github.io/project/mascara/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/mascara/</guid>
+      <description>&lt;p&gt;The MASCARA project was designed and constructed to discover transiting exoplanets around the brightest stars in the sky. All stars brighter than magnitude 8.4 above Airmass 2 are imaged every 6.4 seconds with 6.4 second integration time, creating continuous exposures. Two stations have been constructed, one in La Palma, Spain and the other in La Silla, Chile. Two smaller sister station with only two cameras called bRing reside in Sutherland South Africa and Siding Springs, Australia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Multi-site All-Sky CAmeRA (MASCARA)-Finding transiting exoplanets around bright (mV &lt; 8) stars</title>
+      <link>https://gotten.github.io/publication/mascara/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0800</pubDate>
+      <guid>https://gotten.github.io/publication/mascara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-sky performance analysis of the vector apodizing phase plate coronagraph on MagAO/Clio2</title>
+      <link>https://gotten.github.io/publication/magao/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0800</pubDate>
+      <guid>https://gotten.github.io/publication/magao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance characterization of a broadband vector Apodizing Phase Plate coronagraph </title>
+      <link>https://gotten.github.io/publication/performance-vapp/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0800</pubDate>
+      <guid>https://gotten.github.io/publication/performance-vapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector APP</title>
+      <link>https://gotten.github.io/project/vectorapp/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/vectorapp/</guid>
+      <description>&lt;p&gt;The vector Apodizing Phase Plate is a coronagraph that uses a multi-layered patterned liquid crystal device to produce an achromatic phase response that spans up to one order of magnitude. The picture above shows a prototype that was specced to operate from 500-900 nm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genetic genealogy</title>
+      <link>https://gotten.github.io/project/genetics/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/genetics/</guid>
+      <description>&lt;p&gt;I have used genetic research to study several branches of my ancestors and break down some brick walls. The most striking results have been anonymized for privacy reasons and published in a Book Section in the &lt;em&gt;&amp;ldquo;Drents Genealogisch Jaarboek 2017&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The vector-APP: a broadband apodizing phase plate that yields complementary PSFs</title>
+      <link>https://gotten.github.io/publication/vapp-concept/</link>
+      <pubDate>Thu, 13 Sep 2012 00:00:00 +0800</pubDate>
+      <guid>https://gotten.github.io/publication/vapp-concept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genealogy</title>
+      <link>https://gotten.github.io/project/genealogy/</link>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0200</pubDate>
+      <guid>https://gotten.github.io/project/genealogy/</guid>
+      <description>&lt;h1 id=&#34;genealogy&#34;&gt;Genealogy&lt;/h1&gt;
+&lt;p&gt;In late 2000 in my second year of high school I was introduced during lessons in History to genealogical research.
+Almost continuously since that moment I have worked on gathering information on my ancestors as a hobby.&lt;/p&gt;
+&lt;p&gt;After 20 years I want to release some of the information to the wider public. For family members a database can be found with the link at the top of the page.&lt;/p&gt;
+&lt;h1 id=&#34;automatic-transcription-of-hand-written-text&#34;&gt;Automatic transcription of hand-written text&lt;/h1&gt;
+&lt;p&gt;Since several years the 
+&lt;a href=&#34;https://transkribus.eu/Transkribus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transkribus&lt;/a&gt; software is available that uses various trained neural networks to read hand-written text. It has a steep learning curve but once you are accustomed to it it can accelerate transcriptions.
+As an experiment I applied it to the indices of the death records of Bardenberg from the year 1876 up to 1888 and corrected the 95% accurate transcription.&lt;/p&gt;
+&lt;p&gt;The file located 
+&lt;a href=&#34;https://drive.google.com/file/d/1AVM5ORyToBKdbxIjPrZWmUJOivdWS1kO/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; has the first ten years as an example.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

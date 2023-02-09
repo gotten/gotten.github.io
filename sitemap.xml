@@ -1,186 +1,552 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2018-06-28T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/publication-type/2/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/a.-costille/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2018-06-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/a.-reiners/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/astronomy/</loc>
-      <lastmod>2018-06-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/a.-vigan/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/hirise-concept/</loc>
-      <lastmod>2018-06-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/tag/astronomy/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/hirise/</loc>
-      <lastmod>2018-06-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/authors/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2018-06-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/c.-mordasini/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-06-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/publication/hirise-sim/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/project/hirise/</loc>
-      <lastmod>2018-02-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/e.-choquet/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2018-02-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/e.-muslimov/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/mascara/</loc>
-      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/project/mascara/</loc>
-      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/gilles-p.p.l.-otten/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/tag/hirise/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/i.-baraffe/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/j.-f.-sauvage/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/vapp/</loc>
-      <lastmod>2015-11-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/j.-l.-beuzit/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/project/vectorapp/</loc>
-      <lastmod>2015-11-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/k.-dohlen/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/genealogy/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/m.-el-morsy/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/project/genetics/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/m.-houlle/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/genetics/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/m.-kasper/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/vapp-concept/</loc>
-      <lastmod>2012-09-13T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/m.-lopez/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/project/genealogy/</loc>
-      <lastmod>2000-08-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/m.-ndiaye/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/categories/</loc>
-    </url>
-    
+  <url>
+    <loc>https://gotten.github.io/author/m.-w.-phillips/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/p.-cristofari/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication_types/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/r.-dorn/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/r.-pourcelot/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/tags/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/u.-seemann/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/y.-charles/</loc>
+    <lastmod>2020-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/a.-zurlo/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/a.l.-maire/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/a.z.-greenbaum/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/b.-charnay/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/d.a.-semenov/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/e.-nasedkin/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/e.-van-dishoeck/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/f.-eisenhauer/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/g.d.-marleau/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/tag/gravity/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/i.a.g.-snellen/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/j.-shangguan/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/j.-wang/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/l.-kreidberg/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/l.-pueyo/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/m.-nowak/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/p.-garcia/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/p.-kervella/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/p.-molliere/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/p.t.-de-zeeuw/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/r.-garcia-lopez/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication/exogravity/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/s.-hinkley/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/s.-lacour/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/t.-molyarova/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/t.-stolker/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/th.-henning/</loc>
+    <lastmod>2020-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/project/exogravity/</loc>
+    <lastmod>2019-11-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/project/papyrus/</loc>
+    <lastmod>2019-11-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/tag/papyrus/</loc>
+    <lastmod>2019-11-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/project/</loc>
+    <lastmod>2019-11-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication-type/1/</loc>
+    <lastmod>2018-06-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication/hirise-concept/</loc>
+    <lastmod>2018-06-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/d.-mouillet/</loc>
+    <lastmod>2018-06-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/m.w.-phillips/</loc>
+    <lastmod>2018-06-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/project/hirise/</loc>
+    <lastmod>2018-02-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication-type/6/</loc>
+    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/tag/genealogy/</loc>
+    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication/genealogie/</loc>
+    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/tag/genetics/</loc>
+    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/m.-gottgens/</loc>
+    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication/larmuseau/</loc>
+    <lastmod>2017-11-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/m.-moisse/</loc>
+    <lastmod>2017-11-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/m.h.d.-larmuseau/</loc>
+    <lastmod>2017-11-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/p.-van-damme/</loc>
+    <lastmod>2017-11-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/r.-decorte/</loc>
+    <lastmod>2017-11-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/tag/mascara/</loc>
+    <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/project/mascara/</loc>
+    <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/a.-l.-lesage/</loc>
+    <lastmod>2017-05-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/d.-pollacco/</loc>
+    <lastmod>2017-05-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/g.j.-talens/</loc>
+    <lastmod>2017-05-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/j.f.p.-spronck/</loc>
+    <lastmod>2017-05-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/r.-stuik/</loc>
+    <lastmod>2017-05-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication/mascara/</loc>
+    <lastmod>2017-05-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/c.u.-keller/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/f.-snik/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/j.l.-codona/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/j.r.-males/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/k.j.-hornburg/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/k.m.-morzinski/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/l.l.-brickson/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/l.m.-close/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/m.a.-kenworthy/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/m.j.-escuti/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/m.n.-miskiewicz/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication/magao/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/p.m.-hinz/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication/performance-vapp/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/tag/vapp/</loc>
+    <lastmod>2017-01-12T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/project/vectorapp/</loc>
+    <lastmod>2015-11-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/project/genetics/</loc>
+    <lastmod>2014-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/c.-packham/</loc>
+    <lastmod>2012-09-13T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/j.-codona/</loc>
+    <lastmod>2012-09-13T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/author/m.-escuti/</loc>
+    <lastmod>2012-09-13T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/publication/vapp-concept/</loc>
+    <lastmod>2012-09-13T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/project/genealogy/</loc>
+    <lastmod>2000-09-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gotten.github.io/talk/</loc>
+  </url>
   
 </urlset>
